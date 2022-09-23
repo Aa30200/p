@@ -1,0 +1,40 @@
+.div1 {
+  background-image: url("tree.jpg");
+  margin: 5% 0 5% 0;
+}
+
+body {
+  background-color: #DC3545;
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+}
+
+.div2 {
+  background-color: #DC3545;
+  padding: 3% 3%;
+  border: solid;
+}
+
+p {
+  font-family: 'Caveat', cursive;
+  font-family: 'Cormorant', serif;
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Cormorant SC', serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+.col-md-4 {
+  padding: 2% 1%;
+  text-align: center;
+}
+
+#footer {
+  text-align: center;
+  background-color: #DC3545;
+  text-indent: 50px;
+  letter-spacing: 3px;
+  color: white;
+}
